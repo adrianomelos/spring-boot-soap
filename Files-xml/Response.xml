@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCustomDetailResponse
+	xsi:schemaLocation="http://api.soap.com customer.xsd"
+	xmlns="http://api.soap.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CustomDetail>
+		<id>3</id>
+		<name></name>
+		<phone></phone>
+		<email></email>
+	</CustomDetail>
+</GetCustomDetailResponse> 
+	
