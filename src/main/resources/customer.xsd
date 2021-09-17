@@ -14,7 +14,10 @@
 	<element name="IdProdutoResponse">
 		<complexType>
 			<sequence>
-				<element name="id" type="int"></element>
+				<element name="id" type="long"></element>
+				<element name="name" type="string"></element>
+				<element name="descricao" type="string"></element>
+				<element name="preco" type="double"></element>
 			</sequence>
 		</complexType>
 	</element>
